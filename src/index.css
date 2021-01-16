@@ -41,8 +41,8 @@ input{
   background: transparent;
   font-size: 20px;
   font-weight: 500;
-  border-bottom: 2px solid #8566aa;
   border: none;
+  border-bottom: 4px solid #8566aa;
   outline: none;
   text-align: center;
 }
@@ -91,7 +91,7 @@ ol li{
    align-items: center;
 }
 
-.todo_style .fa-times{
+.todo_style .fa-times {
 width: 20px;
 height: 20px;
 display: flex;
